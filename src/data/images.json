@@ -1,0 +1,82 @@
+{
+ "/images/class.jpg": {
+  "w": 1640,
+  "h": 1228,
+  "dir": "/images/_opt/class",
+  "widths": [
+   320,
+   480,
+   640,
+   800,
+   1200,
+   1640
+  ],
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoUAA8APu1iqk4ppaQiMAgBMB2JYwCdABIF4zvsxJIAAP39qvvRRJcAJlYEV330NhlAFTIXgi4CIV3V5s1WmlLfxsGaRBhcsJ2LBjPiVcd8z44iMOjArkwigSEKW08AAAA="
+ },
+ "/images/computer.jpg": {
+  "w": 1640,
+  "h": 1228,
+  "dir": "/images/_opt/computer",
+  "widths": [
+   320,
+   480,
+   640,
+   800,
+   1200,
+   1640
+  ],
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoUAA8APu1kqk4ppaQiMAgBMB2JZwDE2CGsqU5mYyI4wMtvYAD+kHIk7JCBjKnKFyGqNA3CfsHfTTploFqxfcIUBM0+D8fZiQIyRLcg6vw5Hs+IkDFf7uAA"
+ },
+ "/images/hero.jpg": {
+  "w": 851,
+  "h": 658,
+  "dir": "/images/_opt/hero",
+  "widths": [
+   320,
+   480,
+   640,
+   800,
+   851
+  ],
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoUAA8APu1iqU2ppaOiMAgBMB2JYwC7ABSaryjYeGjZKxUAAP65/w+xW6Gt2zRc5iI+98EGtdN07JVJHPr7YekSJUDn5RQtusxtyazEO10tsXukMCYQnd9qzDMAAA=="
+ },
+ "/images/library.jpg": {
+  "w": 1640,
+  "h": 1228,
+  "dir": "/images/_opt/library",
+  "widths": [
+   320,
+   480,
+   640,
+   800,
+   1200,
+   1640
+  ],
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoUAA8APu1iqU2ppaOiMAgBMB2JQBWAAxorKaM9byKL+gAA/kDo8r+TTNHnQNq0a4LvgcZZu2fWDwTWK5P0h2BxtxmVbZCRGlaZabJzgAA="
+ },
+ "/images/science.jpg": {
+  "w": 1640,
+  "h": 1228,
+  "dir": "/images/_opt/science",
+  "widths": [
+   320,
+   480,
+   640,
+   800,
+   1200,
+   1640
+  ],
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoUAA8APu1iqU2ppaQiMAgBMB2JYwC3uA3PR3ls6qkLwAD+sVao2k7505UzY0dwL1bgQLD7KVqf/S1gJwI9/5AhB6pR7PfAFFBby8IlTD0lFMaHS4AAAA=="
+ },
+ "/logo.png": {
+  "w": 900,
+  "h": 900,
+  "dir": "/images/_opt/logo",
+  "widths": [
+   320,
+   480,
+   540
+  ],
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoUABQAPu1qrlCppaQiqAqpMB2JQBadAe0FznYlTvZrCW/NS3Q6GgAA/ufs/5hjDXWVWnFf5E4sqqI+klP6dSrBInIqTCyillIqfTVGSGdanfesy/h8Gu4W7qArCLfgDPx18H37PIq6y3l1uJxLUAAA"
+ }
+}
